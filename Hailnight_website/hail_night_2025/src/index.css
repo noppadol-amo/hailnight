@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+  .all-\[unset\]{
+    all:unset;
+  }
+}
+:root{
+  --size-space-100: 4px;
+  --size-space-200: 8px;
+  --size-space-400: 16px
+}
+@font-face {
+  font-family: 'csRoger';
+  src: url('src\font\CS Roger Inner.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
