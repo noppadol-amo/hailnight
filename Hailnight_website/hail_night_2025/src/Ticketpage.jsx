@@ -41,7 +41,7 @@ export default function TicketPage() {
     {/* Overlay Content */}
     <div className="absolute top-8 left-1/2 transform -translate-x-1/2 flex flex-col items-center gap-4 z-20">
       {/* Text */}
-      <div className="font-csRoger font-bold text-[#fccf7f] text-[64px] text-center leading-[89.6px] whitespace-nowrap">
+      <div className="font-csRoger font-bold text-[#fccf7f] text-[56px] sm:text-[64px] text-center leading-[89.6px] whitespace-nowrap">
         GET TICKET
       </div>
 
@@ -49,12 +49,12 @@ export default function TicketPage() {
       <img
         src="src\pic\ticket.PNG"
         alt="Ticket"
-        className="w-auto  sm:max-w-[150%]"
+        className="w-[90%]  sm:max-w-[120%] "
       />
-      <div className="font-csRoger font-bold text-[#fccf7f] text-[56px] text-center leading-[89.6px] whitespace-nowrap">
+      <div className="font-csRoger font-bold text-[#fccf7f] text-[40px] text-center leading-[89.6px] whitespace-nowrap">
         Regular - 379.-
       </div>
-      <div className="font-csRoger font-bold text-[#cbdbf2] text-[42px] text-center leading-[89.6px] whitespace-nowrap">
+      <div className="font-csRoger font-bold text-[#cbdbf2] text-[32px] text-center leading-[89.6px] whitespace-nowrap">
         Now - 20 Mar 2025
       </div>
        <a 
@@ -64,7 +64,7 @@ export default function TicketPage() {
 >   
 
   <div className="bg-[#f9d490] flex items-center justify-center gap-2.5 px-[100px] py-6 relative rounded-[20px] mb-[40px] hover:scale-110 transition-all duration-300">
-    <div className="relative w-fit font-csRosger font-bold text-[#4a381f] text-[36px] text-center tracking-[0] leading-[50px] underline whitespace-nowrap">
+    <div className="relative w-fit font-csRoger font-bold text-[#4a381f] text-[36px] text-center tracking-[0] leading-[50px] underline whitespace-nowrap">
       Buy Now
     </div>
   </div>

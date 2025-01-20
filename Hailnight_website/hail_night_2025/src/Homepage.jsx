@@ -23,25 +23,25 @@ export default function HomePage() {
         <div className="flex flex-col items-center gap-2 w-full">
           <Link
             to="/"
-            className="w-full bg-[#efb246] hover:bg-[#d9a03f] text-[#4a381f] font-csRoger text-2xl py-4 rounded text-center"
+            className="w-full bg-[#efb246] hover:bg-[#d9a03f] text-[#4a381f] font-csRoger text-xl py-4 rounded text-center"
           >
             HOME
           </Link>
           <Link
             to="/ticket"
-            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl py-4 rounded text-center"
+            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl py-4 rounded text-center"
           >
             TICKET
           </Link>
           <Link
             to="/schedule"
-            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl py-4 rounded text-center"
+            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl py-4 rounded text-center"
           >
             SCHEDULE
           </Link>
           <Link
             to="/merchandise"
-            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl py-4 rounded text-center"
+            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl py-4 rounded text-center"
           >
             MERCHANDISE
           </Link>
@@ -50,13 +50,13 @@ export default function HomePage() {
         <div className="flex items-center justify-between h-[106px] w-full bg-[#f9d38f]">
           <Link
             to="/"
-            className="flex-1 h-full bg-[#efb246] hover:bg-[#d9a03f] text-[#4a381f] font-csRoger text-2xl flex items-center justify-center rounded-r-[18px]"
+            className="flex-1 h-full bg-[#efb246] hover:bg-[#d9a03f] text-[#4a381f] font-csRoger text-xl flex items-center justify-center rounded-r-[18px]"
           >
             HOME
           </Link>
           <Link
             to="/ticket"
-            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl flex items-center justify-center rounded-[18px]"
+            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl flex items-center justify-center rounded-[18px]"
           >
             TICKET
           </Link>
@@ -69,13 +69,13 @@ export default function HomePage() {
           
           <Link
             to="/schedule"
-            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl flex items-center justify-center rounded-[18px]"
+            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl flex items-center justify-center rounded-[18px]"
           >
             SCHEDULE
           </Link>
           <Link
             to="/merchandise"
-            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl flex items-center justify-center rounded-l-[18px]"
+            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl flex items-center justify-center rounded-l-[18px]"
           >
             MERCHANDISE
           </Link>
@@ -109,8 +109,8 @@ export default function HomePage() {
     className="relative w-full sm:w-[600px] h-full bg-[#758fb6] rounded-[20px]" />
 
     {/* HN Text */}
-    <div className="flex flex-col h-[421px] items-center justify-center">
-  <p className="relative w-full sm:w-[466px] font-csRoger font-normal text-[#f3ead9] text-2xl text-center tracking-[0] leading-[28.0px]">
+    <div className="flex flex-col h-auto items-center justify-center">
+  <p className="relative w-[90%] sm:w-[466px] font-csRoger font-normal text-[#f3ead9] text-l sm:text-right text-center tracking-[0] leading-10">
   You will be brought on a spellbinding voyage filled with delicious foods, mesmerizing performances, rhythmic music, and many iconic games that capture the thrill of adventure and discovery.
 
 Reconnect with the joy of exploration and let your imagination set sail on this enchanting journey. Relive the spirit of adventure and the boundless optimism of chasing new horizons at Hail Night 2025.
@@ -160,10 +160,43 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
 
   
 
-<img
-src ="src\pic\date & location 2.png"
-className="w-full h-full px-4">
-</img>
+
+<div className="flex flex-col sm:flex-row w-full items-starts justify-center pt-[40px] pb-[40px] px-4 sm:px-0 relative gap-10">
+  {/* Date&Time */}
+  <div className="flex flex-col items-center sm:items-end w-full sm:w-auto text-center sm:text-right">
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#fccf7f] text-[58px] tracking-[0] leading-[81.2px]">
+      Date&amp;Time
+    </div>
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#f3dcb3] text-7xl tracking-[0] leading-[100.8px]">
+      21 March
+    </div>
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#f3dcb3] text-7xl tracking-[0] leading-[100.8px]">
+      2025
+    </div>
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#cbdbf2] text-[56px] tracking-[0] leading-[78.4px]">
+      17.00-23.00
+    </div>
+  </div>
+
+  {/* Location */}
+  <div className="flex flex-col items-center sm:items-start w-full sm:w-auto text-center sm:text-left  gap-[10px]">
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#fccf7f] text-[58px] tracking-[0] leading-[81.2px] ">
+      Location
+    </div>
+    <div className="relative w-full sm:w-[525px] font-boran font-normal text-[#c6ddff] text-[58px] tracking-[0] leading-[89.6px]">
+      ลานหน้า
+      <br />
+      หอประชุม
+      <br />
+      มหิดลสิทธาคาร
+    </div>
+    <img 
+      src="src\pic\IMG_0936.jpg"
+      alt="map"
+      className="relative w-full sm:w-[405px] h-full bg-[#758fb6] rounded-[20px] "
+    />
+  </div>
+</div>
 
 
 <div className="flex flex-col sm:flex-row w-full items-center justify-between  pb-[20px]  relative ">

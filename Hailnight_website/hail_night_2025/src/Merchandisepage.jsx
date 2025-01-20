@@ -79,7 +79,7 @@ export default function MerchandisePage() {
         
 
   <div className=" w-full bg-[#f9d490] flex items-center justify-center gap-2.5 px-[150px] py-6 relative rounded-[20px] mb-[40px]  transition-all duration-300">
-    <div className="relative w-fit font-csRosger font-bold text-[#4a381f] text-[36px] text-center tracking-[0] leading-[50px]  whitespace-nowrap">
+    <div className="relative w-fit font-csRoger font-bold text-[#4a381f] text-[36px] text-center tracking-[0] leading-[50px]  whitespace-nowrap">
       Pre Order - 15 Feb
     </div>
   </div>

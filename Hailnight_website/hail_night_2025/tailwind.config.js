@@ -8,8 +8,7 @@ module.exports = {
     extend: {
       fontFamily: {
         csRoger: ['csRoger', 'sans'], // Fallback to sans-serif
-        roboto:['Roboto','sans-serif'],
-        jersey:['Jersey 15','sans']
+       boran :["boran",'sans']
         
       },
     },
