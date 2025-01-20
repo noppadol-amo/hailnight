@@ -52,10 +52,10 @@ export default function TicketPage() {
         className="w-auto  sm:max-w-[150%]"
       />
       <div className="font-csRoger font-bold text-[#fccf7f] text-[56px] text-center leading-[89.6px] whitespace-nowrap">
-        Early Bird - 359.-
+        Regular - 379.-
       </div>
       <div className="font-csRoger font-bold text-[#cbdbf2] text-[42px] text-center leading-[89.6px] whitespace-nowrap">
-        Now - 28 Feb 2025
+        Now - 20 Mar 2025
       </div>
        <a 
   href="https://docs.google.com/forms/d/e/1FAIpQLSee0Vv4eb3XB7Ve9-wMTrZAOa5O4leUzUjhHjmtGWpv0nZqmg/viewform?usp=header"  // Replace with your URL
