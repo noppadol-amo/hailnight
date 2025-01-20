@@ -48,26 +48,30 @@ export default function Footer() {
           {/* Links - Each on a separate row, aligned to the right */}
           <div className="flex flex-col gap-4 text-right">
             <a
-              href="#"
-              className="text-[#4a381f] text-xs md:text-sm lg:text-base"
+              href="https://docs.google.com/document/d/109HOyWkWIYzbOG78jOFrZpnipXS1ZN4XPImqu0B3Whk/edit?usp=sharing"
+              target="_blank"
+              className="text-[#4a381f] text-xs md:text-sm lg:text-base underline"
             >
-              Support
+              PDPA
             </a>
             <a
-              href="#"
-              className="text-[#4a381f] text-xs md:text-sm lg:text-base"
+              href=" https://docs.google.com/document/d/1v2jUoWQ1TyIeckGJn5WQ34UyH-PeVMJKuuAePe_77ZU/edit?usp=sharing"
+              target="_blank"
+              className="text-[#4a381f] text-xs md:text-sm lg:text-base underline"
             >
               Privacy Policy
             </a>
             <a
-              href="#"
-              className="text-[#4a381f] text-xs md:text-sm lg:text-base"
+              href="https://docs.google.com/document/d/1Z8wB3bg8pm5J0ZOqF0mr2nP1gtyMYjmhHMgONMPJBTo/edit?usp=sharing"
+              target="_blank"
+              className="text-[#4a381f] text-xs md:text-sm lg:text-base underline"
             >
               Refund Policy
             </a>
             <a
-              href="#"
-              className="text-[#4a381f] text-xs md:text-sm lg:text-base"
+              href="https://docs.google.com/document/d/155Oxg4RxKfUk4Oo5RxSLYit8sLcFJMaRkJ83esR8-Iw/edit?usp=sharing"
+              target="_blank"
+              className="text-[#4a381f] text-xs md:text-sm lg:text-base underline"
             >
               Terms and Conditions
             </a>
