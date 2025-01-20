@@ -29,7 +29,7 @@ export default function TicketPage() {
   
   
   <div 
-    className="relative flex w-[90%] sm:w-[700px] max-w-full h-[650px] sm:h-[800px] border-2 border-gray-100 rounded-[20px] overflow-hidden transition-all duration-300"
+    className="relative flex w-[90%] sm:w-[700px] max-w-full h-[700px] sm:h-[800px] border-2 border-gray-100 rounded-[20px] overflow-hidden transition-all duration-300"
   >
     {/* Background Image */}
     <img 
@@ -39,7 +39,7 @@ export default function TicketPage() {
     />
 
     {/* Overlay Content */}
-    <div className="absolute top-8 left-1/2 transform -translate-x-1/2 flex flex-col items-center gap-8 z-20">
+    <div className="absolute top-8 left-1/2 transform -translate-x-1/2 flex flex-col items-center gap-4 z-20">
       {/* Text */}
       <div className="font-csRoger font-bold text-[#fccf7f] text-[64px] text-center leading-[89.6px] whitespace-nowrap">
         GET TICKET
@@ -51,14 +51,18 @@ export default function TicketPage() {
         alt="Ticket"
         className="w-auto  sm:max-w-[150%]"
       />
-      <div className="font-csRoger font-bold text-[#fccf7f] text-[42px] text-center leading-[89.6px] whitespace-nowrap">
-        Early Bird - 379 Bath
+      <div className="font-csRoger font-bold text-[#fccf7f] text-[56px] text-center leading-[89.6px] whitespace-nowrap">
+        Early Bird - 359.-
+      </div>
+      <div className="font-csRoger font-bold text-[#cbdbf2] text-[42px] text-center leading-[89.6px] whitespace-nowrap">
+        Now - 28 Feb 2025
       </div>
        <a 
   href="https://docs.google.com/forms/d/e/1FAIpQLSee0Vv4eb3XB7Ve9-wMTrZAOa5O4leUzUjhHjmtGWpv0nZqmg/viewform?usp=header"  // Replace with your URL
   target="_blank"  // Open link in a new tab
   rel="noopener noreferrer"  // Security for opening in a new tab
->
+>   
+
   <div className="bg-[#f9d490] flex items-center justify-center gap-2.5 px-[100px] py-6 relative rounded-[20px] mb-[40px] hover:scale-110 transition-all duration-300">
     <div className="relative w-fit font-csRosger font-bold text-[#4a381f] text-[36px] text-center tracking-[0] leading-[50px] underline whitespace-nowrap">
       Buy Now

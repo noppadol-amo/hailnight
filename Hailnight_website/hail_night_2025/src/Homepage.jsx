@@ -86,34 +86,12 @@ export default function HomePage() {
       
     {/* Top Section */}
     
-    <div className="flex flex-row w-full items-center justify-between px-4 sm:px-0 relative ">
-      
-      {/* Left Image */}
-      {!isSmallScreen && (
-      
-      <img
-        src="src/pic/left top.png"
-        alt="top left"
-        className="max-w-[495px] w-[33%] h-[421px]"
-      />
-      )}
+    
 
-      {/* Right Image */}
-      {!isSmallScreen && (
-      
-        <img
-          src="src/pic/right top.png"
-          alt="top right"
-          className="max-w-[495px] w-[33%] h-[421px]"
-        />
-        )}
-      
-    </div>
-    {/* Centered Text */}
-
-    <div className="relative w-[100%] text-7xl [text-shadow:0px_4px_4px_#00000040] font-csRoger font-normal text-[#fccf7f] text-center tracking-[0] leading-[100.8px] whitespace-nowrap pt-[20px]">
-        Hail Night
-      </div>
+    <img
+    src ="src\pic\top main cut.png"
+    className="w-full h-full pb-[60px]"
+    ></img>
  
 
 
@@ -122,7 +100,7 @@ export default function HomePage() {
       <div className="flex flex-col w-full items-center justify-center pt-[40px] pb-[100px] px-4 sm:px-0 gap-10">
       <div className="flex flex-col items-center justify-center w-full min-h-screen gap-10 px-4 sm:px-0">
   {/* HN Image and HN Text Section */}
-  <div className="flex flex-col sm:flex-row w-full items-center justify-center pt-[60px] pb-[40px] px-4 sm:px-0 relative gap-10">
+  <div className="flex flex-col sm:flex-row w-full items-center justify-center pt-[60px]  px-4 sm:px-0 relative gap-10">
 
     {/* HN Image */}
     <img 
@@ -143,7 +121,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
 
   </div>
 
-  <div className="flex flex-col sm:flex-row w-full items-center justify-between pt-[60px]   relative ">
+  <div className="flex flex-col sm:flex-row w-full items-center justify-between   relative ">
   {!isSmallScreen && (
     <div
     className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0" >
@@ -180,46 +158,15 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
 
 </div>
 
-  {/* Date&Time and Location Section */}
-  <div className="flex flex-col sm:flex-row w-full items-starts justify-center pt-[40px] pb-[40px] px-4 sm:px-0 relative gap-10">
-  {/* Date&Time */}
-  <div className="flex flex-col items-center sm:items-end w-full sm:w-auto text-center sm:text-right">
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#fccf7f] text-[58px] tracking-[0] leading-[81.2px]">
-      Date&amp;Time
-    </div>
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#f3dcb3] text-7xl tracking-[0] leading-[100.8px]">
-      21 March
-    </div>
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#f3dcb3] text-7xl tracking-[0] leading-[100.8px]">
-      2025
-    </div>
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#cbdbf2] text-[56px] tracking-[0] leading-[78.4px]">
-      17.00-23.00
-    </div>
-  </div>
+  
 
-  {/* Location */}
-  <div className="flex flex-col items-center sm:items-start w-full sm:w-auto text-center sm:text-left  gap-[10px]">
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#fccf7f] text-[58px] tracking-[0] leading-[81.2px] ">
-      Location
-    </div>
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#c6ddff] text-[58px] tracking-[0] leading-[89.6px]">
-      ลานหน้า
-      <br />
-      หอประชุม
-      <br />
-      มหิดลสิทธาคาร
-    </div>
-    <img 
-      src="src\pic\IMG_0936.jpg"
-      alt="map"
-      className="relative w-full sm:w-[405px] h-full bg-[#758fb6] rounded-[20px] "
-    />
-  </div>
-</div>
+<img
+src ="src\pic\date and location.png"
+className="w-full h-full px-4">
+</img>
 
 
-<div className="flex flex-col sm:flex-row w-full items-center justify-between pt-[40px] pb-[20px]  relative ">
+<div className="flex flex-col sm:flex-row w-full items-center justify-between  pb-[20px]  relative ">
 {!isSmallScreen && (
     <div
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"

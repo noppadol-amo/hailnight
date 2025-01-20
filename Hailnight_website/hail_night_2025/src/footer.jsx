@@ -27,26 +27,23 @@ export default function Footer() {
 
         {/* Links, Sponsors, and "Sponsored by" - Row layout */}
         <div className="flex flex-row justify-between items-start mb-8">
-          {/* Left Side (Sponsored by and sponsor circles) */}
-          <div className="flex flex-col items-start">
-            {/* Sponsored by text */}
-            <div className="text-[#4a381f] text-sm md:text-base lg:text-lg font-bold mb-4">
-              Sponsored by
-            </div>
 
-            {/* Sponsor Circles */}
-            <div className="flex flex-wrap gap-4">
-              {Array(12).fill(0).map((_, index) => (
-                <div
-                  key={index}
-                  className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-[#758fb6] rounded-full"
-                />
-              ))}
-            </div>
-          </div>
-
-          {/* Links - Each on a separate row, aligned to the right */}
-          <div className="flex flex-col gap-4 text-right">
+        <div className="text-left text-[#4a381f] text-base md:text-lg lg:text-xl mb-8">
+          <p>
+            คณะกรรมการนักศึกษาแพทย์รุ่น 135 คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล
+            <br />
+            2 ถนนวังหลัง แขวงศิริราช เขตบางกอกน้อย กรุงเทพฯ 10700
+            <br />
+            Email:{" "}
+            <a
+              href="mailto:contact@hailnight.com"
+              className="underline"
+            >
+              contact@hailnight.com
+            </a>
+          </p>
+        </div>
+        <div className="flex flex-col gap-4 text-right">
             <a
               href="https://docs.google.com/document/d/109HOyWkWIYzbOG78jOFrZpnipXS1ZN4XPImqu0B3Whk/edit?usp=sharing"
               target="_blank"
@@ -76,25 +73,31 @@ export default function Footer() {
               Terms and Conditions
             </a>
           </div>
+
+          {/* Left Side (Sponsored by and sponsor circles) */}
+          {/*<div className="flex flex-col items-start">
+            
+            <div className="text-[#4a381f] text-sm md:text-base lg:text-lg font-bold mb-4">
+              Sponsored by
+            </div>
+
+            {/* Sponsor Circles */}
+            {/*<div className="flex flex-wrap gap-4">
+              {Array(12).fill(0).map((_, index) => (
+                <div
+                  key={index}
+                  className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-[#758fb6] rounded-full"
+                />
+              ))}
+            </div>*/}
+          </div>
+
+          {/* Links - Each on a separate row, aligned to the right */}
+          
         </div>
 
         {/* Contact Info - Left aligned */}
-        <div className="text-left text-[#4a381f] text-base md:text-lg lg:text-xl mb-8">
-          <p>
-            คณะกรรมการนักศึกษาแพทย์รุ่น 135 คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล
-            <br />
-            2 ถนนวังหลัง แขวงศิริราช เขตบางกอกน้อย กรุงเทพฯ 10700
-            <br />
-            Email:{" "}
-            <a
-              href="mailto:contact@hailnight.com"
-              className="underline"
-            >
-              contact@hailnight.com
-            </a>
-          </p>
-        </div>
-      </div>
+      
     </footer>
   );
 }

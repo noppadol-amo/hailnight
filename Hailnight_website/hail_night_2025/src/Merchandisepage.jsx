@@ -76,17 +76,14 @@ export default function MerchandisePage() {
 
 
         {/* Link Tree Button Section */}
-        <a 
-  href="https://example.com"  // Replace with your URL
-  target="_blank"  // Open link in a new tab
-  rel="noopener noreferrer"  // Security for opening in a new tab
->
-  <div className="bg-[#f9d490] flex items-center justify-center gap-2.5 px-[150px] py-6 relative rounded-[20px] mb-[40px] hover:scale-110 transition-all duration-300">
-    <div className="relative w-fit font-csRosger font-normal text-[#4a381f] text-[36px] text-center tracking-[0] leading-[50px] underline whitespace-nowrap">
-      Buy Now
+        
+
+  <div className=" w-full bg-[#f9d490] flex items-center justify-center gap-2.5 px-[150px] py-6 relative rounded-[20px] mb-[40px]  transition-all duration-300">
+    <div className="relative w-fit font-csRosger font-bold text-[#4a381f] text-[36px] text-center tracking-[0] leading-[50px]  whitespace-nowrap">
+      Pre Order - 15 Feb
     </div>
   </div>
-</a>
+
 
       </div>
 

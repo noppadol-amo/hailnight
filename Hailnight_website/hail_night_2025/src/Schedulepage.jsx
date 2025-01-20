@@ -23,12 +23,12 @@ export default function SchedulePage() {
   <div className="flex flex-col px-4 items-center w-full">
   < img 
   src ="src\pic\Untitled_Artwork 7.png"
-  className="absolute  left-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
   src ="src\pic\Untitled_Artwork 4.png"
-  className="absolute  right-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
@@ -42,25 +42,22 @@ export default function SchedulePage() {
 </div>
 
 
-    <div className="mt-8 text-[#fccf7f] text-3xl sm:text-5xl font-csRoger">
-      17.10 : เปิดประตูเข้างาน
-    </div>
   </div>
   
   {/* Event 2 */}
   <div className="flex flex-col px-4 items-center w-full">
   < img 
   src ="src\pic\Untitled_Artwork 3.png"
-  className="absolute  left-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
   src ="src\pic\Untitled_Artwork 2.png"
-  className="absolute  right-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\4.png" 
+    src="src\pic\4.jpg" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover "
   />
@@ -69,25 +66,23 @@ export default function SchedulePage() {
   
 </div>
 
-    <div className="mt-8 text-[#fccf7f] text-3xl sm:text-5xl font-csRoger">
-      17.35 - 17.50 : SIPIStar 3rd
-    </div>
+    
   </div>
 
  {/* Event 3 */}
  <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 3.png"
-  className="absolute  left-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  src ="src\pic\Untitled_Artwork 7.png"
+  className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 2.png"
-  className="absolute  right-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  src ="src\pic\Untitled_Artwork 4.png"
+  className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\5.png" 
+    src="src\pic\5.jpg" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover "
   />
@@ -96,25 +91,23 @@ export default function SchedulePage() {
   
 </div>
 
-    <div className="mt-8 text-[#fccf7f] text-3xl sm:text-5xl font-csRoger">
-      17.55 - 18.10 : SIPIStar 2nd
-    </div>
+    
   </div>
 
 {/* Event 4 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
   src ="src\pic\Untitled_Artwork 3.png"
-  className="absolute  left-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
   src ="src\pic\Untitled_Artwork 2.png"
-  className="absolute  right-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\6.png" 
+    src="src\pic\6.jpg" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover "
   />
@@ -123,21 +116,19 @@ export default function SchedulePage() {
   
 </div>
 
-    <div className="mt-8 text-[#fccf7f] text-3xl sm:text-5xl font-csRoger">
-      18.15 - 18.30 : SIPIStar 1st
-    </div>
+    
   </div>
   
 {/* Event 4 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 3.png"
-  className="absolute  left-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  src ="src\pic\Untitled_Artwork 7.png"
+  className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 2.png"
-  className="absolute  right-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  src ="src\pic\Untitled_Artwork 4.png"
+  className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
@@ -150,21 +141,19 @@ export default function SchedulePage() {
   
 </div>
 
-    <div className="mt-8 text-[#fccf7f] text-3xl sm:text-5xl font-csRoger">
-      19.00 - 20.00 : 1st Artist
-    </div>
+    
   </div>
 
 {/* Event 5 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
   src ="src\pic\Untitled_Artwork 3.png"
-  className="absolute  left-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
   src ="src\pic\Untitled_Artwork 2.png"
-  className="absolute  right-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
@@ -177,21 +166,19 @@ export default function SchedulePage() {
   
 </div>
 
-    <div className="mt-8 text-[#fccf7f] text-3xl sm:text-5xl font-csRoger">
-      20.10 - 20.30 : Cover Dance
-    </div>
+    
   </div>
 
 {/* Event 6 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 3.png"
-  className="absolute  left-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  src ="src\pic\Untitled_Artwork 7.png"
+  className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 2.png"
-  className="absolute  right-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  src ="src\pic\Untitled_Artwork 4.png"
+  className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
@@ -204,21 +191,19 @@ export default function SchedulePage() {
   
 </div>
 
-    <div className="mt-8 text-[#fccf7f] text-3xl sm:text-5xl font-csRoger">
-      21.00 - 22.00 : 2nd Artist
-    </div>
+    
   </div>
 
   {/* Event 7 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
   src ="src\pic\Untitled_Artwork 3.png"
-  className="absolute  left-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
   src ="src\pic\Untitled_Artwork 2.png"
-  className="absolute  right-[0px] w-[686px] h-[351px]  rounded-lg hidden sm:block"></img>
+  className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
@@ -231,9 +216,7 @@ export default function SchedulePage() {
   
 </div>
 
-    <div className="mt-8 text-[#fccf7f] text-3xl sm:text-5xl font-csRoger">
-      22.30 - 23.30 : 3rd Artist
-    </div>
+    
   </div>
 </div>
 
