@@ -161,7 +161,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
   
 
 <img
-src ="src\pic\date and location.png"
+src ="src\pic\date & location 2.png"
 className="w-full h-full px-4">
 </img>
 
