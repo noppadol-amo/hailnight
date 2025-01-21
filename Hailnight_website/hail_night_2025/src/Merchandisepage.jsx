@@ -20,19 +20,19 @@ export default function MerchandisePage() {
         {/* First Section */}
         <div className="inline-flex w-full h-auto items-center justify-center gap-[33px] relative flex-wrap">
           {/* Shirt Box */}
-          <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
+          <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
             src = "\pic\merch 2.jpg"
-            className="h-full w-full rounded-[20px]">
+            className="h-auto sm:h-full w-full rounded-[20px]">
             
             </img>
           </div>
 
           {/* Size Box */}
-          <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
+          <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
             src = "\pic\merch1.jpg"
-            className="h-full w-full rounded-[20px]">
+            className="sm:h-full w-full rounded-[20px]">
             
             </img>
           </div>
@@ -41,19 +41,19 @@ export default function MerchandisePage() {
         {/* Second Section */}
         <div className="inline-flex w-full h-auto items-center justify-center gap-[33px] relative flex-wrap">
           {/* Jersey Box */}
-          <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
+          <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
             src = "\pic\merch3.jpg"
-            className="h-full w-full rounded-[20px]">
+            className="sm:h-full w-full rounded-[20px]">
             
             </img>
           </div>
 
           {/* Size Box */}
-          <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
+          <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
             src = "\pic\merch 4.jpg"
-            className="h-full w-full rounded-[20px]">
+            className="sm:h-full w-full rounded-[20px]">
             
             </img>
           </div>
@@ -62,10 +62,10 @@ export default function MerchandisePage() {
           {/* 3rt section*/}
           <div className="inline-flex w-full h-auto items-center justify-center gap-[33px] relative flex-wrap">
           {/* Shirt Box */}
-          <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
+          <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
             src = "\pic\merch 5.jpg"
-            className="h-full w-full rounded-[20px]">
+            className="sm:h-full w-full rounded-[20px]">
             
             </img>
           </div>
@@ -79,7 +79,7 @@ export default function MerchandisePage() {
         
 
   <div className=" w-full bg-[#f9d490] flex items-center justify-center gap-2.5 px-[150px] py-6 relative rounded-[20px] mb-[40px]  transition-all duration-300">
-    <div className="relative w-fit font-csRoger font-bold text-[#4a381f] text-[36px] text-center tracking-[0] leading-[50px]  whitespace-nowrap">
+    <div className="relative w-fit font-csRoger font-bold text-[#4a381f] text-[20px] sm:text-[36px] text-center tracking-[0] leading-[50px]  whitespace-nowrap">
       Pre Order - 15 Feb
     </div>
   </div>

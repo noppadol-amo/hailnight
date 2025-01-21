@@ -89,7 +89,7 @@ export default function HomePage() {
     
 
     <img
-    src ="\pic\top main cut.png"
+    src ="\pic\top new.png"
     className="w-full h-full pb-[60px]"
     ></img>
  
@@ -110,18 +110,18 @@ export default function HomePage() {
 
     {/* HN Text */}
     <div className="flex flex-col h-auto items-center justify-center">
-  <p className="relative w-[90%] sm:w-[466px] font-csRoger font-normal text-[#f3ead9] text-l sm:text-right text-center tracking-[0] leading-10">
+  <div className="relative w-[130%] sm:w-[466px] text-xs sm:text-lg font-csRoger font-normal text-[#f3ead9] text-l sm:text-right text-center tracking-[0] leading-10">
   You will be brought on a spellbinding voyage filled with delicious foods, mesmerizing performances, rhythmic music, and many iconic games that capture the thrill of adventure and discovery.
 
 Reconnect with the joy of exploration and let your imagination set sail on this enchanting journey. Relive the spirit of adventure and the boundless optimism of chasing new horizons at Hail Night 2025.
-  </p>
+  </div>
     </div>
 
     
 
   </div>
 
-  <div className="flex flex-col sm:flex-row w-full items-center justify-between   relative ">
+  <div className="flex flex-col sm:flex-row w-full items-center justify-between px-2 relative ">
   {!isSmallScreen && (
     <div
     className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0" >
@@ -161,40 +161,44 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
   
 
 
-<div className="flex flex-col sm:flex-row w-full items-starts justify-center pt-[40px] pb-[40px] px-4 sm:px-0 relative gap-10">
+<div className="flex flex-col sm:flex-row w-full items-starts justify-center mt-[40px] pb-[40px]  sm:px-0 relative gap-10">
   {/* Date&Time */}
-  <div className="flex flex-col items-center sm:items-end w-full sm:w-auto text-center sm:text-right">
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#fccf7f] text-[58px] tracking-[0] leading-[81.2px]">
-      Date&amp;Time
+  <div className="flex flex-col items-center sm:items-starts w-full sm:w-auto text-center sm:text-right mb-[10px]">
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal px-4 text-[#fccf7f] text-[60px]  tracking-[0] leading-relaxed">
+      Date & Time
     </div>
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#f3dcb3] text-7xl tracking-[0] leading-[100.8px]">
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#f3dcb3] text-5xl tracking-[0] leading-[100.8px]">
       21 March
     </div>
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#f3dcb3] text-7xl tracking-[0] leading-[100.8px]">
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#f3dcb3] text-5xl tracking-[0] leading-[100.8px]">
       2025
     </div>
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#cbdbf2] text-[56px] tracking-[0] leading-[78.4px]">
-      17.00-23.00
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#cbdbf2] text-4xl tracking-[0] leading-[78.4px]">
+      17.00-00.00
     </div>
   </div>
 
   {/* Location */}
   <div className="flex flex-col items-center sm:items-start w-full sm:w-auto text-center sm:text-left  gap-[10px]">
-    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#fccf7f] text-[58px] tracking-[0] leading-[81.2px] ">
-      Location
+    <div className="relative w-full sm:w-[525px] font-csRoger font-normal text-[#fccf7f] text-5xl sm:text-[60px] tracking-[0] leading-[81.2px] mt-[10px]">
+    Location
     </div>
-    <div className="relative w-full sm:w-[525px] font-boran font-normal text-[#c6ddff] text-[58px] tracking-[0] leading-[89.6px]">
+    <div className="relative w-full sm:w-[525px] font-boran font-normal text-[#c6ddff] text-[48px] sm:text-[68px] tracking-[0] leading-[89.6px]">
       ลานหน้า
       <br />
       หอประชุม
       <br />
       มหิดลสิทธาคาร
     </div>
+    <a
+    href="https://maps.app.goo.gl/maSLKwSogGkhRzdp7"
+    target="_blank">
     <img 
       src="\pic\IMG_0936.jpg"
       alt="map"
       className="relative w-full sm:w-[405px] h-full bg-[#758fb6] rounded-[20px] "
     />
+    </a>
   </div>
 </div>
 
@@ -239,7 +243,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     {/* Artist Box 1 */}
     <img 
     src = "\pic\Special guest ปิงซาน - 1.png"
-    className="relative w-[400px] h-[400px] bg-[#758fb6] rounded-[20px]">
+    className="relative w-[400px] h-full bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "dept" */}
       {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
     </img>
@@ -247,7 +251,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     {/* Artist Box 2 */}
     <img 
     src = "\pic\Special guest ปิงซาน - 2.png"
-    className="relative w-[400px] h-[400px] bg-[#758fb6] rounded-[20px]">
+    className="relative w-[400px] h-full bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "Only Monday" */}
       {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
     </img>
@@ -255,7 +259,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     {/* Artist Box 3 */}
     <img 
     src = "\pic\Special guest ปิงซาน.png"
-    className="relative w-[400px] h-[400px] bg-[#758fb6] rounded-[20px]">
+    className="relative w-[400px] h-full bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "parkinson" */}
       {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
     </img>

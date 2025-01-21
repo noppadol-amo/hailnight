@@ -12,7 +12,7 @@ export default function SchedulePage() {
       {/* Schedule Page Content */}
       <div className="flex flex-col items-center flex-grow gap-12 text-[#f3ead9] mt-[60px]">
         {/* Header */}
-        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold font-csRoger text-[#fccf7f] text-center">
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold font-csRoger text-[#fccf7f] text-center leading-relaxed">
           Event Schedule
         </h1>
 

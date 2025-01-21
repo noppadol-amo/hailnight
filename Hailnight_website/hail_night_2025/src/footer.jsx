@@ -13,7 +13,7 @@ export default function Footer() {
           className="w-[152px] h-[108px] " />
 
           {/* Header Text */}
-          <div className="text-2xl md:text-3xl font-csRoger lg:text-4xl text-[#4a381f] font-bold mb-2">
+          <div className="text-2xl md:text-3xl font-csRoger lg:text-4xl text-[#4a381f] font-bold mb-2 ml-2">
             Hail Night 2025
           </div>
 
