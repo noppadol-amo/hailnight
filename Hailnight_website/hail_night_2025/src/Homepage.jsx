@@ -62,7 +62,7 @@ export default function HomePage() {
           </Link>
           
           <img 
-          src="src\pic\IMG_0927.JPG"
+          src="\pic\IMG_0927.JPG"
           alt="logo"
           className="w-[205px] h-full object-cover"
           />
@@ -89,7 +89,7 @@ export default function HomePage() {
     
 
     <img
-    src ="src\pic\top main cut.png"
+    src ="\pic\top main cut.png"
     className="w-full h-full pb-[60px]"
     ></img>
  
@@ -104,7 +104,7 @@ export default function HomePage() {
 
     {/* HN Image */}
     <img 
-    src = "src\pic\S__10420271.jpg"
+    src = "\pic\S__10420271.jpg"
     alt = "What is hailnight"
     className="relative w-full sm:w-[600px] h-full bg-[#758fb6] rounded-[20px]" />
 
@@ -126,7 +126,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     <div
     className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0" >
     <img 
-    src = "src\pic\Untitled_Artwork 7.png"
+    src = "\pic\Untitled_Artwork 7.png"
     alt = "element 1"
     className="w-full h-[200px]" />
     </div>
@@ -139,14 +139,14 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
   >
     {/* Untitled_Artwork 5 */}
     <img 
-      src="src\pic\Untitled_Artwork 5.png"
+      src="\pic\Untitled_Artwork 5.png"
       className="absolute top-0 left-0 z-10 w-[300px] h-[270px]"
       alt="Artwork 5"
     />
     
     {/* Untitled_Artwork 4 */}
     <img 
-      src="src\pic\Untitled_Artwork 4.png"
+      src="\pic\Untitled_Artwork 4.png"
       className="relative z-0 w-full h-[200px]"
       alt="Artwork 4"
     />
@@ -191,7 +191,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       มหิดลสิทธาคาร
     </div>
     <img 
-      src="src\pic\IMG_0936.jpg"
+      src="\pic\IMG_0936.jpg"
       alt="map"
       className="relative w-full sm:w-[405px] h-full bg-[#758fb6] rounded-[20px] "
     />
@@ -205,7 +205,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"
     >
       <img 
-        src="src\pic\Untitled_Artwork 7.png"
+        src="\pic\Untitled_Artwork 7.png"
         alt="element 1"
         className="w-full h-[200px]" 
       />
@@ -217,7 +217,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"
     >
       <img 
-        src="src\pic\Untitled_Artwork 2.png"
+        src="\pic\Untitled_Artwork 2.png"
         alt="element 1"
         className="w-full h-[200px]" 
       />
@@ -238,7 +238,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
   <div className="flex flex-col w-full sm:flex-row justify-center items-center gap-10 relative">
     {/* Artist Box 1 */}
     <img 
-    src = "src\pic\Special guest ปิงซาน - 1.png"
+    src = "\pic\Special guest ปิงซาน - 1.png"
     className="relative w-[400px] h-[400px] bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "dept" */}
       {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
@@ -246,7 +246,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     
     {/* Artist Box 2 */}
     <img 
-    src = "src\pic\Special guest ปิงซาน - 2.png"
+    src = "\pic\Special guest ปิงซาน - 2.png"
     className="relative w-[400px] h-[400px] bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "Only Monday" */}
       {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
@@ -254,7 +254,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     
     {/* Artist Box 3 */}
     <img 
-    src = "src\pic\Special guest ปิงซาน.png"
+    src = "\pic\Special guest ปิงซาน.png"
     className="relative w-[400px] h-[400px] bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "parkinson" */}
       {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
@@ -270,7 +270,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"
     >
       <img 
-        src="src\pic\Untitled_Artwork 7.png"
+        src="\pic\Untitled_Artwork 7.png"
         alt="element 1"
         className="w-full h-[200px]" 
       />
@@ -282,7 +282,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"
     >
       <img 
-        src="src\pic\Untitled_Artwork 2.png"
+        src="\pic\Untitled_Artwork 2.png"
         alt="element 1"
         className="w-full h-[200px]" 
       />
@@ -330,7 +330,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
 
 </div>
 <img 
-src = "src\pic\Untitled_Artwork 1.png"
+src = "\pic\Untitled_Artwork 1.png"
 className="relative w-full h-full " />
 <Footer />
 </div>

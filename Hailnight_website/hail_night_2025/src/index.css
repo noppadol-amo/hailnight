@@ -16,14 +16,14 @@
 }
 @font-face {
   font-family: 'csRoger';
-  src: url('src/font/CS Roger Inner.otf') format('opentype');
+  src: url('/font/CS Roger Inner.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'boran';
-  src: url('src/font/drboran.ttf') format('truetype');
+  src: url('/font/drboran.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }

@@ -22,7 +22,7 @@ export default function MerchandisePage() {
           {/* Shirt Box */}
           <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "src\pic\merch 2.jpg"
+            src = "\pic\merch 2.jpg"
             className="h-full w-full rounded-[20px]">
             
             </img>
@@ -31,7 +31,7 @@ export default function MerchandisePage() {
           {/* Size Box */}
           <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "src\pic\merch1.jpg"
+            src = "\pic\merch1.jpg"
             className="h-full w-full rounded-[20px]">
             
             </img>
@@ -43,7 +43,7 @@ export default function MerchandisePage() {
           {/* Jersey Box */}
           <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "src\pic\merch3.jpg"
+            src = "\pic\merch3.jpg"
             className="h-full w-full rounded-[20px]">
             
             </img>
@@ -52,7 +52,7 @@ export default function MerchandisePage() {
           {/* Size Box */}
           <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "src\pic\merch 4.jpg"
+            src = "\pic\merch 4.jpg"
             className="h-full w-full rounded-[20px]">
             
             </img>
@@ -64,7 +64,7 @@ export default function MerchandisePage() {
           {/* Shirt Box */}
           <div className="flex w-[600px] h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "src\pic\merch 5.jpg"
+            src = "\pic\merch 5.jpg"
             className="h-full w-full rounded-[20px]">
             
             </img>
@@ -91,7 +91,7 @@ export default function MerchandisePage() {
   
   {/* Bottom Row */}
   <img 
-src = "src\pic\Untitled_Artwork.png"
+src = "\pic\Untitled_Artwork.png"
 className="relative w-full h-full " />
 
 

@@ -19,7 +19,7 @@ export default function TicketPage() {
   {/* Scaled Image */}
   <div className="relative w-[500px] sm:w-[500px] max-w-full h-[550px] rounded-[20px] px-4 ">
     <img
-      src="src\pic\S__10420271.jpg"
+      src="\pic\S__10420271.jpg"
       alt="Scaled Image"
       className="w-full h-full rounded-[20px] "
     />
@@ -33,7 +33,7 @@ export default function TicketPage() {
   >
     {/* Background Image */}
     <img 
-      src="src\pic\canon-poon-hailnight-659.jpg"
+      src="\pic\canon-poon-hailnight-659.jpg"
       alt="Background"
       className="absolute inset-0 w-full h-full object-cover blur  brightness-50  "
     />
@@ -47,7 +47,7 @@ export default function TicketPage() {
 
       {/* Ticket Image */}
       <img
-        src="src\pic\ticket.PNG"
+        src="\pic\ticket.PNG"
         alt="Ticket"
         className="w-[90%]  sm:max-w-[120%] "
       />
@@ -83,7 +83,7 @@ export default function TicketPage() {
 
 {/* New Section */}
 <img 
-src = "src\pic\Untitled_Artwork 1.png"
+src = "\pic\Untitled_Artwork 1.png"
 className="relative w-full h-full " />
 
 

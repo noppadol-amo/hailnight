@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="flex items-center justify-between mb-8">
           {/* Blue Box (on the left) */}
           <img 
-          src = "src\pic\IMG_0927.JPG"
+          src = "\pic\IMG_0927.JPG"
           className="w-[152px] h-[108px] " />
 
           {/* Header Text */}

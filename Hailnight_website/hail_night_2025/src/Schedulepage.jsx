@@ -22,17 +22,17 @@ export default function SchedulePage() {
   {/* Event 1 */}
   <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 7.png"
+  src ="\pic\Untitled_Artwork 7.png"
   className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 4.png"
+  src ="\pic\Untitled_Artwork 4.png"
   className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\เข้างาน.png" 
+    src="\pic\เข้างาน.png" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover "
   />
@@ -47,17 +47,17 @@ export default function SchedulePage() {
   {/* Event 2 */}
   <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 3.png"
+  src ="\pic\Untitled_Artwork 3.png"
   className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 2.png"
+  src ="\pic\Untitled_Artwork 2.png"
   className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\4.jpg" 
+    src="\pic\4.jpg" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover "
   />
@@ -72,17 +72,17 @@ export default function SchedulePage() {
  {/* Event 3 */}
  <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 7.png"
+  src ="\pic\Untitled_Artwork 7.png"
   className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 4.png"
+  src ="\pic\Untitled_Artwork 4.png"
   className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\5.jpg" 
+    src="\pic\5.jpg" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover "
   />
@@ -97,17 +97,17 @@ export default function SchedulePage() {
 {/* Event 4 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 3.png"
+  src ="\pic\Untitled_Artwork 3.png"
   className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 2.png"
+  src ="\pic\Untitled_Artwork 2.png"
   className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\6.jpg" 
+    src="\pic\6.jpg" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover "
   />
@@ -122,17 +122,17 @@ export default function SchedulePage() {
 {/* Event 4 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 7.png"
+  src ="\pic\Untitled_Artwork 7.png"
   className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 4.png"
+  src ="\pic\Untitled_Artwork 4.png"
   className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\1.png" 
+    src="\pic\1.png" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover  "
   />
@@ -147,17 +147,17 @@ export default function SchedulePage() {
 {/* Event 5 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 3.png"
+  src ="\pic\Untitled_Artwork 3.png"
   className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 2.png"
+  src ="\pic\Untitled_Artwork 2.png"
   className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\7.png" 
+    src="\pic\7.png" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover "
   />
@@ -172,17 +172,17 @@ export default function SchedulePage() {
 {/* Event 6 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 7.png"
+  src ="\pic\Untitled_Artwork 7.png"
   className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 4.png"
+  src ="\pic\Untitled_Artwork 4.png"
   className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\2.png" 
+    src="\pic\2.png" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover  "
   />
@@ -197,17 +197,17 @@ export default function SchedulePage() {
   {/* Event 7 */}
 <div className="flex flex-col px-4 items-center w-full">
   < img 
-  src ="src\pic\Untitled_Artwork 3.png"
+  src ="\pic\Untitled_Artwork 3.png"
   className="absolute  left-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
       
       {/* Right Blue Box */}
       < img 
-  src ="src\pic\Untitled_Artwork 2.png"
+  src ="\pic\Untitled_Artwork 2.png"
   className="absolute  right-[0px] w-[500px] h-[300px]  rounded-lg hidden sm:block"></img>
     <div className="relative w-full max-w-[692px] h-[425px] rounded-[20px] bg-[#758fb6] flex items-top justify-center overflow-hidden">
   {/* Background Image */}
   <img 
-    src="src\pic\3.png" 
+    src="\pic\3.png" 
     alt="Event Background" 
     className="absolute inset-0 w-full h-full object-cover  "
   />
@@ -221,7 +221,7 @@ export default function SchedulePage() {
 </div>
 
 <img 
-src = "src\pic\Untitled_Artwork 1.png"
+src = "\pic\Untitled_Artwork 1.png"
 className="relative w-full h-full " />
 
 
