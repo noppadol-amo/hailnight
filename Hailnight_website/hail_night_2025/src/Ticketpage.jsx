@@ -58,7 +58,7 @@ export default function TicketPage() {
         Now - 20 Mar 2025
       </div>
        <a 
-  href="https://docs.google.com/forms/d/e/1FAIpQLSee0Vv4eb3XB7Ve9-wMTrZAOa5O4leUzUjhHjmtGWpv0nZqmg/viewform?usp=header"  // Replace with your URL
+  href="https://forms.gle/9aRrzj2SjUbRiE8g6"  // Replace with your URL
   target="_blank"  // Open link in a new tab
   rel="noopener noreferrer"  // Security for opening in a new tab
 >   
