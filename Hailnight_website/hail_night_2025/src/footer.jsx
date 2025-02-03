@@ -24,30 +24,60 @@ export default function Footer() {
             
           </button>
         </div>
-
-        {/* Links, Sponsors, and "Sponsored by" - Row layout */}
-        <div className="flex flex-row justify-between items-start mb-8">
-
-        <div className="text-left text-[#4a381f] text-base md:text-lg lg:text-xl mb-8">
-          <p>
-            คณะกรรมการนักศึกษาแพทย์รุ่น 135 คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล
-            <br />
-            2 ถนนวังหลัง แขวงศิริราช เขตบางกอกน้อย กรุงเทพฯ 10700
-            <br />
-            Email:{" "}
-            <a
-              href="mailto:contact@hailnight.com"
-              className="underline"
-            >
-              contact@hailnight.com
-            </a>
-          </p>
         </div>
-        <div className="flex flex-col gap-4 text-right">
+        
+
+        <div className="flex flex-row justify-between items-start mb-8">
+        {/* Left Side (Sponsored by and sponsor circles) */}
+        <div className="flex flex-col items-start">
+            
+            <div className="text-[#4a381f] text-sm md:text-base lg:text-lg font-bold mb-4">
+              Sponsored by
+            </div>
+
+            {/* Sponsor Circles */}
+            <div className="flex flex-wrap gap-4">
+            <img
+            src ="\sponser\uniloft.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\superrich 2.jpg"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\สมาคมศิษย์เก่าศิริราช.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\วันเดย์ติวเตอร์.jpg"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\โกกิ.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\U72_โลโก้.jpg"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\รพ.ปิยะเวท.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\บัณฑิต.jpg"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\figure.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\Beef35.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\The enter.JPG"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            
+            </div>
+          </div>
+          <div className="flex flex-col justify-center w-fit gap-4 text-right">
             <a
               href="https://docs.google.com/document/d/109HOyWkWIYzbOG78jOFrZpnipXS1ZN4XPImqu0B3Whk/edit?usp=sharing"
               target="_blank"
-              className="text-[#4a381f] text-xs md:text-sm lg:text-base underline"
+              className="text-[#4a381f] text-xs md:text-sm lg:text-base underline "
             >
               PDPA
             </a>
@@ -73,25 +103,33 @@ export default function Footer() {
               Terms and Conditions
             </a>
           </div>
-
-          {/* Left Side (Sponsored by and sponsor circles) */}
-          {/*<div className="flex flex-col items-start">
-            
-            <div className="text-[#4a381f] text-sm md:text-base lg:text-lg font-bold mb-4">
-              Sponsored by
-            </div>
-
-            {/* Sponsor Circles */}
-            {/*<div className="flex flex-wrap gap-4">
-              {Array(12).fill(0).map((_, index) => (
-                <div
-                  key={index}
-                  className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-[#758fb6] rounded-full"
-                />
-              ))}
-            </div>*/}
           </div>
 
+        {/* Links, Sponsors, and "Sponsored by" - Row layout */}
+
+        <div className="flex flex-row justify-between items-start mb-8">
+
+        <div className="text-left text-[#4a381f] text-base md:text-lg lg:text-xl mb-8">
+          <p>
+            คณะกรรมการนักศึกษาแพทย์รุ่น 135 คณะแพทยศาสตร์ศิริราชพยาบาล มหาวิทยาลัยมหิดล
+            <br />
+            2 ถนนวังหลัง แขวงศิริราช เขตบางกอกน้อย กรุงเทพฯ 10700
+            <br />
+            Email:{" "}
+            <a
+              href="mailto:contact@hailnight.com"
+              className="underline"
+            >
+              contact@hailnight.com
+            </a>
+          </p>
+        </div>
+        
+
+        
+
+          {/* Left Side (Sponsored by and sponsor circles) */}
+          
           {/* Links - Each on a separate row, aligned to the right */}
           
         </div>

@@ -299,31 +299,57 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
 
 {/* Sponsored Section */}
     
-{/*<div className="flex w-[313px] items-center justify-center gap-2.5 pt-0 pb-[50px] px-0 relative flex-[0_0_auto] z-[3]">
-        <div className="relative flex-1 mt-[-1.00px] font-csRoger font-normal text-[#f9d38f] text-5xl text-center tracking-[0] leading-[40.6px]">
+<div className="flex  items-center justify-center gap-2.5 pt-0 pb-[50px] px-0 relative flex-[0_0_auto] z-[3]">
+        <div className="relative flex-1 mt-[-1.00px] font-csRoger font-normal text-[#f9d38f] text-3xl sm:text-5xl text-center tracking-[0] leading-[40.6px]">
           Sponsored by
         </div>
-      </div> */}
+      </div> 
 
       {/* First Row of Sponsor Circles */}
-      {/*<div className="inline-flex items-center justify-center gap-4 sm:gap-16 pt-0 pb-[50px] px-4 relative flex-[0_0_auto] z-[2]">
-        <div className="relative w-32 h-[119px] bg-[#758fb6] rounded-[20px]" />
-        <div className="relative w-32 h-[119px] bg-[#758fb6] rounded-[20px]" />
-        <div className="relative w-32 h-[119px] bg-[#758fb6] rounded-[50%]" />
-      </div> */}
+      <div className="inline-flex items-center justify-center gap-4 sm:gap-16 pt-0 pb-[20px] px-4 relative flex-[0_0_auto] z-[2]">
+        <img 
+        src ="\sponser\uniloft.png"
+        className="relative w-[50%] sm:w-[400px] bg-[#758fb6] rounded-[10px]" />
+        <img 
+        src ="\sponser\superrich 2.jpg"
+        className="relative w-[60%] sm:w-[500px] bg-[#758fb6] rounded-[10px]" />
+        
+      </div> 
 
       {/* Second Row of Sponsor Circles */}
-     {/* <div className="flex flex-wrap items-center justify-between gap-[48px_64px] pt-0 pb-[50px] px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
-  <div className="relative w-[87px] h-[81px] bg-[#758fb6] rounded-[20px]" />
-  <div className="relative w-[86px] h-[81px] bg-[#758fb6] rounded-[20px]" />
-  <div className="relative w-[87px] h-[81px] bg-[#758fb6] rounded-[50%]" />
-  <div className="relative w-[87px] h-[81px] bg-[#758fb6] rounded-[20px]" />
-  <div className="relative w-[86px] h-[81px] bg-[#758fb6] rounded-[20px]" />
-  <div className="relative w-[87px] h-[81px] bg-[#758fb6] rounded-[50%]" />
-  <div className="relative w-[87px] h-[81px] bg-[#758fb6] rounded-[20px]" />
-  <div className="relative w-[86px] h-[81px] bg-[#758fb6] rounded-[20px]" />
-  <div className="relative w-[87px] h-[81px] bg-[#758fb6] rounded-[50%]" />
-</div> */}
+      <div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[20px] px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
+     <img 
+        src ="\sponser\สมาคมศิษย์เก่าศิริราช.png"
+        className="relative w-[45%] sm:w-[200px] bg-[#758fb6] rounded-[10px]" />
+        <img 
+        src ="\sponser\วันเดย์ติวเตอร์.jpg"
+        className="relative w-[45%] sm:w-[200px] bg-[#758fb6] rounded-[10px]" />
+        <img 
+        src ="\sponser\โกกิ.png"
+        className="relative w-[45%] sm:w-[200px] bg-[#758fb6] rounded-[10px] bg-white" />
+        <img 
+        src ="\sponser\U72_โลโก้.jpg"
+        className="relative w-[45%] sm:w-[200px] bg-[#758fb6] rounded-[10px]" />
+</div> 
+
+<div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[50px] px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
+     <img 
+        src ="\sponser\รพ.ปิยะเวท.png"
+        className="relative w-[40%] sm:w-[150px] bg-[#758fb6] rounded-[10px] bg-white" />
+        <img 
+        src ="\sponser\บัณฑิต.jpg"
+        className="relative w-[40%] sm:w-[150px] bg-[#758fb6] rounded-[10px]" />
+        <img 
+        src ="\sponser\figure.png"
+        className="relative w-[40%] sm:w-[150px] bg-[#758fb6] rounded-[10px] bg-white" />
+        <img 
+        src ="\sponser\Beef35.png"
+        className="relative w-[40%] h-[50px] sm:w-[150px] sm:h-[100px] bg-[#758fb6] rounded-[10px]" />
+         <img 
+        src ="\sponser\The enter.JPG"
+        className="relative w-[40%] sm:w-[150px] bg-[#758fb6] rounded-[10px]" />
+</div> 
+
 
   </div> 
   {/* New Section with Blue Boxes */}
