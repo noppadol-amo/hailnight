@@ -236,38 +236,26 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
 
 
      {/* Artist Section with Overlaid Boxes */}
-<div className="flex flex-col sm:flex-row w-full items-center justify-center pt-[60px] pb-[60px] px-4 sm:px-0 relative gap-10">
+
   
   {/* Responsive Artist Boxes */}
-  <div className="flex flex-col w-full sm:flex-row justify-center items-center gap-10 relative">
+  
     {/* Artist Box 1 */}
+    
+    
     <img 
-    src = "\pic\Special guest ปิงซาน - 1.png"
-    className="relative w-[400px] h-full bg-[#758fb6] rounded-[20px]">
+    src = "\pic\โปสเตอร์เฉลยศิลปิน.png"
+    className="relative w-[90%] sm:w-[60%] h-full bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "dept" */}
-      {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
+      
     </img>
     
-    {/* Artist Box 2 */}
-    <img 
-    src = "\pic\Special guest ปิงซาน - 2.png"
-    className="relative w-[400px] h-full bg-[#758fb6] rounded-[20px]">
-      {/* Absolute Box "Only Monday" */}
-      {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
-    </img>
     
-    {/* Artist Box 3 */}
-    <img 
-    src = "\pic\Special guest ปิงซาน.png"
-    className="relative w-[400px] h-full bg-[#758fb6] rounded-[20px]">
-      {/* Absolute Box "parkinson" */}
-      {/*<div className="absolute w-full h-[98px] bg-[#fccf7f]" />*/}
-    </img>
-  </div>
+  
   
   
 
-</div>
+
 <div className="flex flex-col sm:flex-row w-full items-center justify-between pt-[60px] pb-[20px]  relative ">
 {!isSmallScreen && (
     <div
