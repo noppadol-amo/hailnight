@@ -349,6 +349,9 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         src ="\sponser\บัณฑิต.jpg"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
+        src ="\sponser\The best plus.JPG"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
+        <img 
         src ="\sponser\figure.png"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px] bg-white" />
         <img 

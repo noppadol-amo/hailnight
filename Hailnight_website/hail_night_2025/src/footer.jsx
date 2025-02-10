@@ -80,6 +80,9 @@ export default function Footer() {
             src ="\sponser\บัณฑิต.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
+            src ="\sponser\The best plus.JPG"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
             src ="\sponser\รพ.ปิยะเวท.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
