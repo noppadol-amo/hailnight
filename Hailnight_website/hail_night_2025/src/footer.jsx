@@ -29,19 +29,28 @@ export default function Footer() {
 
         <div className="flex flex-row justify-between items-start mb-8">
         {/* Left Side (Sponsored by and sponsor circles) */}
-        <div className="flex flex-col items-start">
+        <div className="flex flex-col w-auto items-start">
             
             <div className="text-[#4a381f] text-sm md:text-base lg:text-lg font-bold mb-4">
               Sponsored by
             </div>
 
             {/* Sponsor Circles */}
-            <div className="flex flex-wrap gap-4">
+            <div className="flex flex-wrap w-[60%] gap-4">
             <img
             src ="\sponser\uniloft.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
             src ="\sponser\superrich 2.jpg"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\loreal-1.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\CP consumer.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\Logo Major Cineplex .png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
             src ="\sponser\สมาคมศิษย์เก่าศิริราช.png"
@@ -56,10 +65,22 @@ export default function Footer() {
             src ="\sponser\U72_โลโก้.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\รพ.ปิยะเวท.png"
+            src ="\sponser\ฟาร์มเฮ้าส์.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\รพ.นครธน.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\ปุ้มปุ้ย ver2 _สำหรับสื่อออนไลน์_.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\ตลาดสดธนบุรี.JPG"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
             src ="\sponser\บัณฑิต.jpg"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\รพ.ปิยะเวท.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
             src ="\sponser\figure.png"
@@ -69,6 +90,15 @@ export default function Footer() {
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
             src ="\sponser\The enter.JPG"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\ร้าน rent sheep.png"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\สุคนธา_retouched.JPG"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\sponser\D’ORO ver2.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             
             </div>

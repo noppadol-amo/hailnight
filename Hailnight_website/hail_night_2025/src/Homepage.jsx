@@ -245,7 +245,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     
     <img 
     src = "\pic\โปสเตอร์เฉลยศิลปิน.png"
-    className="relative w-[90%] sm:w-[60%] h-full bg-[#758fb6] rounded-[20px]">
+    className="relative w-[90%] sm:w-[60%q] h-full bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "dept" */}
       
     </img>
@@ -294,48 +294,79 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       </div> 
 
       {/* First Row of Sponsor Circles */}
-      <div className="inline-flex items-center justify-center gap-4 sm:gap-16 pt-0 pb-[20px] px-4 relative flex-[0_0_auto] z-[2]">
+      <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-4 pt-0 pb-[20px] sm:px-4 relative flex-[0_0_auto] z-[2]">
         <img 
         src ="\sponser\uniloft.png"
-        className="relative w-[50%] sm:w-[400px] bg-[#758fb6] rounded-[10px]" />
+        className="relative  h-[100px] w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         <img 
         src ="\sponser\superrich 2.jpg"
-        className="relative w-[60%] sm:w-[500px] bg-[#758fb6] rounded-[10px]" />
+        className="relative  h-[100px] w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\sponser\loreal-1.png"
+        className="relative  h-[100px]  w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\sponser\CP consumer.png"
+        className="relative h-[100px] w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\sponser\Logo Major Cineplex .png"
+        className="relative h-[100px] w-auto sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         
       </div> 
 
       {/* Second Row of Sponsor Circles */}
-      <div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[20px] px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
+      <div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[20px] sm:px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
      <img 
         src ="\sponser\สมาคมศิษย์เก่าศิริราช.png"
-        className="relative w-[45%] sm:w-[200px] bg-[#758fb6] rounded-[10px]" />
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
         src ="\sponser\วันเดย์ติวเตอร์.jpg"
-        className="relative w-[45%] sm:w-[200px] bg-[#758fb6] rounded-[10px]" />
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
         src ="\sponser\โกกิ.png"
-        className="relative w-[45%] sm:w-[200px] bg-[#758fb6] rounded-[10px] bg-white" />
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px] bg-white" />
         <img 
         src ="\sponser\U72_โลโก้.jpg"
-        className="relative w-[45%] sm:w-[200px] bg-[#758fb6] rounded-[10px]" />
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
+        <img 
+        src ="\sponser\ฟาร์มเฮ้าส์.png"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\sponser\รพ.นครธน.png"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\sponser\ปุ้มปุ้ย ver2 _สำหรับสื่อออนไลน์_.png"
+        className="relative h-[80px] w-[30%] sm:h-[120px]  sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\sponser\ตลาดสดธนบุรี.JPG"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
 </div> 
 
-<div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[50px] px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
+<div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[50px] sm:px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
      <img 
         src ="\sponser\รพ.ปิยะเวท.png"
-        className="relative w-[40%] sm:w-[150px] bg-[#758fb6] rounded-[10px] bg-white" />
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px] bg-white" />
         <img 
         src ="\sponser\บัณฑิต.jpg"
-        className="relative w-[40%] sm:w-[150px] bg-[#758fb6] rounded-[10px]" />
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
         src ="\sponser\figure.png"
-        className="relative w-[40%] sm:w-[150px] bg-[#758fb6] rounded-[10px] bg-white" />
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px] bg-white" />
         <img 
         src ="\sponser\Beef35.png"
-        className="relative w-[40%] h-[50px] sm:w-[150px] sm:h-[100px] bg-[#758fb6] rounded-[10px]" />
+        className="relative h-[60px] w-[20%] h-[50px] sm:h-[90px] sm:w-auto  bg-[#758fb6] rounded-[10px]" />
          <img 
         src ="\sponser\The enter.JPG"
-        className="relative w-[40%] sm:w-[150px] bg-[#758fb6] rounded-[10px]" />
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
+        <img 
+        src ="\sponser\ร้าน rent sheep.png"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\sponser\สุคนธา_retouched.JPG"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\sponser\D’ORO ver2.jpg"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        
 </div> 
 
 
