@@ -22,7 +22,7 @@ export default function MerchandisePage() {
           {/* Shirt Box */}
           <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "\pic\merch 2.jpg"
+            src = "https://files.hailnight.com/pic/merch%202.jpg"
             className="h-auto sm:h-full w-full rounded-[20px]">
             
             </img>
@@ -31,7 +31,7 @@ export default function MerchandisePage() {
           {/* Size Box */}
           <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "\pic\merch1.jpg"
+            src = "https://files.hailnight.com/pic/merch1.jpg"
             className="sm:h-full w-full rounded-[20px]">
             
             </img>
@@ -43,7 +43,7 @@ export default function MerchandisePage() {
           {/* Jersey Box */}
           <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "\pic\merch3.jpg"
+            src = "https://files.hailnight.com/pic/merch3.jpg"
             className="sm:h-full w-full rounded-[20px]">
             
             </img>
@@ -52,7 +52,7 @@ export default function MerchandisePage() {
           {/* Size Box */}
           <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "\pic\merch 4.jpg"
+            src = "https://files.hailnight.com/pic/merch 4.jpg"
             className="sm:h-full w-full rounded-[20px]">
             
             </img>
@@ -64,7 +64,7 @@ export default function MerchandisePage() {
           {/* Shirt Box */}
           <div className="flex w-[600px] sm:h-[400px] items-center justify-center gap-2.5  relative  ">
             <img
-            src = "\pic\merch 5.jpg"
+            src = "https://files.hailnight.com/pic/merch 5.jpg"
             className="sm:h-full w-full rounded-[20px]">
             
             </img>
@@ -77,12 +77,17 @@ export default function MerchandisePage() {
 
         {/* Link Tree Button Section */}
         
-
-  <div className=" w-full bg-[#f9d490] flex items-center justify-center gap-2.5 px-[150px] py-6 relative rounded-[20px] mb-[40px]  transition-all duration-300">
+        <a 
+  href="https://linktr.ee/si135merch"  // Replace with your URL
+  target="_blank"  // Open link in a new tab
+  rel="noopener noreferrer"  // Security for opening in a new tab
+>   
+  <div className=" w-70 bg-[#f9d490] flex items-center justify-center gap-2.5 px-[150px] py-6 relative rounded-[20px] mb-[40px]  hover:scale-110 transition-all duration-300">
     <div className="relative w-fit font-csRoger font-bold text-[#4a381f] text-[20px] sm:text-[36px] text-center tracking-[0] leading-[50px]  whitespace-nowrap">
       Pre Order - 15 Feb
     </div>
   </div>
+  </a>
 
 
       </div>
@@ -91,7 +96,7 @@ export default function MerchandisePage() {
   
   {/* Bottom Row */}
   <img 
-src = "\pic\Untitled_Artwork.png"
+src = "https://files.hailnight.com/pic/Untitled_Artwork.png"
 className="relative w-full h-full " />
 
 

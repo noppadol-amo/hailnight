@@ -78,7 +78,7 @@ export default function Navbar() {
             TICKET
           </Link>
           <img 
-          src="\pic\IMG_0927.JPG"
+          src="https://files.hailnight.com/pic/IMG_0927.JPG"
           alt="logo"
           className="w-[205px] h-full object-cover"
           />

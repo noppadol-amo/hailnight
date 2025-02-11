@@ -4,7 +4,7 @@ import Footer from "./footer";
 
 export default function HomePage() {
   const [isSmallScreen, setIsSmallScreen] = useState(false);
-
+  
   // Check screen size on load and resize
   useEffect(() => {
     const checkScreenSize = () => {
@@ -62,7 +62,7 @@ export default function HomePage() {
           </Link>
           
           <img 
-          src="\pic\IMG_0927.JPG"
+          src="https://files.hailnight.com/pic/IMG_0927.JPG"
           alt="logo"
           className="w-[205px] h-full object-cover"
           />
@@ -87,9 +87,9 @@ export default function HomePage() {
     {/* Top Section */}
     
     
-
+     
     <img
-    src ="\pic\top new.png"
+    src ="https://files.hailnight.com/public/pic/top%20new.png"
     className="w-full h-full pb-[60px]"
     ></img>
  
@@ -104,7 +104,7 @@ export default function HomePage() {
 
     {/* HN Image */}
     <img 
-    src = "\pic\S__10420271.jpg"
+    src = "https://files.hailnight.com/pic/S__10420271.jpg"
     alt = "What is hailnight"
     className="relative w-full sm:w-[600px] h-full bg-[#758fb6] rounded-[20px]" />
 
@@ -126,7 +126,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     <div
     className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0" >
     <img 
-    src = "\pic\Untitled_Artwork 7.png"
+    src = "https://files.hailnight.com/pic/Untitled_Artwork%207.png"
     alt = "element 1"
     className="w-full h-[200px]" />
     </div>
@@ -139,14 +139,15 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
   >
     {/* Untitled_Artwork 5 */}
     <img 
-      src="\pic\Untitled_Artwork 5.png"
+      src="https://files.hailnight.com/pic/Untitled_Artwork%205.png"
       className="absolute top-0 left-0 z-10 w-[300px] h-[270px]"
       alt="Artwork 5"
     />
     
     {/* Untitled_Artwork 4 */}
     <img 
-      src="\pic\Untitled_Artwork 4.png"
+      src="https://files.hailnight.com/pic/Untitled_Artwork%204.png
+"
       className="relative z-0 w-full h-[200px]"
       alt="Artwork 4"
     />
@@ -194,7 +195,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     href="https://maps.app.goo.gl/maSLKwSogGkhRzdp7"
     target="_blank">
     <img 
-      src="\pic\IMG_0936.jpg"
+      src="https://files.hailnight.com/pic/IMG_0936.jpg"
       alt="map"
       className="relative w-full sm:w-[405px] h-full bg-[#758fb6] rounded-[20px] "
     />
@@ -209,7 +210,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"
     >
       <img 
-        src="\pic\Untitled_Artwork 7.png"
+        src="https://files.hailnight.com/pic/Untitled_Artwork%207.png"
         alt="element 1"
         className="w-full h-[200px]" 
       />
@@ -221,7 +222,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"
     >
       <img 
-        src="\pic\Untitled_Artwork 2.png"
+        src="https://files.hailnight.com/pic/Untitled_Artwork%202.png"
         alt="element 1"
         className="w-full h-[200px]" 
       />
@@ -244,7 +245,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
     
     
     <img 
-    src = "\pic\โปสเตอร์เฉลยศิลปิน.png"
+    src = "https://files.hailnight.com/public/pic/%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%A2%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B4%E0%B8%99.png"
     className="relative w-[90%] sm:w-[60%q] h-full bg-[#758fb6] rounded-[20px]">
       {/* Absolute Box "dept" */}
       
@@ -262,7 +263,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"
     >
       <img 
-        src="\pic\Untitled_Artwork 7.png"
+        src="https://files.hailnight.com/pic/Untitled_Artwork%207.png"
         alt="element 1"
         className="w-full h-[200px]" 
       />
@@ -274,7 +275,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       className="relative flex flex-wrap w-[33%] sm:w-[405px] h-[300px] items-center gap-0"
     >
       <img 
-        src="\pic\Untitled_Artwork 2.png"
+        src="https://files.hailnight.com/pic/Untitled_Artwork%202.png"
         alt="element 1"
         className="w-full h-[200px]" 
       />
@@ -296,19 +297,20 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       {/* First Row of Sponsor Circles */}
       <div className="flex flex-wrap items-center justify-center gap-4 sm:gap-4 pt-0 pb-[20px] sm:px-4 relative flex-[0_0_auto] z-[2]">
         <img 
-        src ="\sponser\uniloft.png"
+        src ="https://files.hailnight.com/public/sponser/uniloft.png"
         className="relative  h-[100px] w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\superrich 2.jpg"
+        src ="https://files.hailnight.com/public/sponser/superrich%202.jpg"
         className="relative  h-[100px] w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\loreal-1.png"
+        src ="https://files.hailnight.com/public/sponser/loreal-1.png"
         className="relative  h-[100px]  w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\CP consumer.png"
+        src ="https://files.hailnight.com/public/sponser/CP%20consumer.png"
         className="relative h-[100px] w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\Logo Major Cineplex .png"
+        src ="https://files.hailnight.com/public/sponser/Logo%20Major%20Cineplex%20.png
+"
         className="relative h-[100px] w-auto sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         
       </div> 
@@ -316,58 +318,58 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
       {/* Second Row of Sponsor Circles */}
       <div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[20px] sm:px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
      <img 
-        src ="\sponser\สมาคมศิษย์เก่าศิริราช.png"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A.png"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
-        src ="\sponser\วันเดย์ติวเตอร์.jpg"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C.jpg"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
-        src ="\sponser\โกกิ.png"
+        src ="https://files.hailnight.com/public/sponser/%E0%B9%82%E0%B8%81%E0%B8%81%E0%B8%B4.png"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px] bg-white" />
         <img 
-        src ="\sponser\U72_โลโก้.jpg"
+        src ="https://files.hailnight.com/public/sponser/U72_โลโก้.jpg"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
-        src ="\sponser\ฟาร์มเฮ้าส์.png"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B9%80%E0%B8%AE%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B9%8C.png"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\รพ.นครธน.png"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B8%9E.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%98%E0%B8%99.png"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\ปุ้มปุ้ย ver2 _สำหรับสื่อออนไลน์_.png"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%9B%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B8%B8%E0%B9%89%E0%B8%A2%20ver2%20_%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C_.png"
         className="relative h-[80px] w-[30%] sm:h-[120px]  sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\ตลาดสดธนบุรี.JPG"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%94%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.JPG"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
 </div> 
 
 <div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[50px] sm:px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
      <img 
-        src ="\sponser\รพ.ปิยะเวท.png"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B8%9E.%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%97.png"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px] bg-white" />
         <img 
-        src ="\sponser\บัณฑิต.jpg"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95.jpg"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
-        src ="\sponser\The best plus.JPG"
+        src ="https://files.hailnight.com/public/sponser/The%20best%20plus.JPG"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
-        src ="\sponser\figure.png"
+        src ="https://files.hailnight.com/public/sponser/figure.png"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px] bg-white" />
         <img 
-        src ="\sponser\Beef35.png"
+        src ="https://files.hailnight.com/public/sponser/Beef35.png"
         className="relative h-[60px] w-[20%] h-[50px] sm:h-[90px] sm:w-auto  bg-[#758fb6] rounded-[10px]" />
          <img 
-        src ="\sponser\The enter.JPG"
+        src ="https://files.hailnight.com/public/sponser/The%20enter.JPG"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
-        src ="\sponser\ร้าน rent sheep.png"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%20rent%20sheep.png"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\สุคนธา_retouched.JPG"
+        src ="https://files.hailnight.com/public/sponser/%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B8%98%E0%B8%B2_retouched.JPG"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="\sponser\D’ORO ver2.jpg"
+        src ="https://files.hailnight.com/public/sponser/D%E2%80%99ORO%20ver2.jpg"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
         
 </div> 
@@ -382,7 +384,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
 
 </div>
 <img 
-src = "\pic\Untitled_Artwork 1.png"
+src = "https://files.hailnight.com/pic/Untitled_Artwork%201.png"
 className="relative w-full h-full " />
 <Footer />
 </div>

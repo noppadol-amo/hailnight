@@ -19,7 +19,7 @@ export default function TicketPage() {
   {/* Scaled Image */}
   <div className="relative w-[500px] sm:w-[500px] max-w-full sm:h-[550px] rounded-[20px] px-4 ">
     <img
-      src="\pic\S__10420271.jpg"
+      src="https://files.hailnight.com/pic/S__10420271.jpg"
       alt="Scaled Image"
       className="w-full sm:h-full rounded-[20px] "
     />
@@ -33,7 +33,7 @@ export default function TicketPage() {
   >
     {/* Background Image */}
     <img 
-      src="\pic\canon-poon-hailnight-659.jpg"
+      src="https://files.hailnight.com/pic/canon-poon-hailnight-659.jpg"
       alt="Background"
       className="absolute inset-0 w-full h-full object-cover blur  brightness-50  "
     />
@@ -47,7 +47,7 @@ export default function TicketPage() {
 
       {/* Ticket Image */}
       <img
-        src="\pic\ticket.PNG"
+        src="https://files.hailnight.com/pic/ticket.PNG"
         alt="Ticket"
         className="w-[80%]  sm:max-w-[120%] px-4 "
       />
@@ -83,7 +83,7 @@ export default function TicketPage() {
 
 {/* New Section */}
 <img 
-src = "\pic\Untitled_Artwork 1.png"
+src = "https://files.hailnight.com/pic/Untitled_Artwork%201.png"
 className="relative w-full h-full " />
 
 

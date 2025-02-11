@@ -38,70 +38,71 @@ export default function Footer() {
             {/* Sponsor Circles */}
             <div className="flex flex-wrap w-[60%] gap-4">
             <img
-            src ="\sponser\uniloft.png"
+            src ="https://files.hailnight.com/public/sponser/uniloft.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\superrich 2.jpg"
+            src ="https://files.hailnight.com/public/sponser/superrich%202.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\loreal-1.png"
+            src ="https://files.hailnight.com/public/sponser/loreal-1.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\CP consumer.png"
+            src ="https://files.hailnight.com/public/sponser/CP%20consumer.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\Logo Major Cineplex .png"
+            src ="https://files.hailnight.com/public/sponser/Logo%20Major%20Cineplex%20.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\สมาคมศิษย์เก่าศิริราช.png"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%84%E0%B8%A1%E0%B8%A8%E0%B8%B4%E0%B8%A9%E0%B8%A2%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\วันเดย์ติวเตอร์.jpg"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2%E0%B9%8C%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\โกกิ.png"
+            src ="https://files.hailnight.com/public/sponser/%E0%B9%82%E0%B8%81%E0%B8%81%E0%B8%B4.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\U72_โลโก้.jpg"
+            src ="https://files.hailnight.com/public/sponser/U72_โลโก้.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\ฟาร์มเฮ้าส์.png"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B9%80%E0%B8%AE%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B9%8C.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\รพ.นครธน.png"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B8%9E.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%98%E0%B8%99.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\ปุ้มปุ้ย ver2 _สำหรับสื่อออนไลน์_.png"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%9B%E0%B8%B8%E0%B9%89%E0%B8%A1%E0%B8%9B%E0%B8%B8%E0%B9%89%E0%B8%A2%20ver2%20_%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C_.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\ตลาดสดธนบุรี.JPG"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%94%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.JPG"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\บัณฑิต.jpg"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B8%9E.%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B9%80%E0%B8%A7%E0%B8%97.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\The best plus.JPG"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%9A%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B8%B4%E0%B8%95.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\รพ.ปิยะเวท.png"
+            src ="https://files.hailnight.com/public/sponser/The%20best%20plus.JPG"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            
+            <img
+            src ="https://files.hailnight.com/public/sponser/figure.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\figure.png"
+            src ="https://files.hailnight.com/public/sponser/Beef35.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\Beef35.png"
+            src ="https://files.hailnight.com/public/sponser/The%20enter.JPG"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\The enter.JPG"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%20rent%20sheep.png"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\ร้าน rent sheep.png"
+            src ="https://files.hailnight.com/public/sponser/%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B8%98%E0%B8%B2_retouched.JPG"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\sponser\สุคนธา_retouched.JPG"
-            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
-            <img
-            src ="\sponser\D’ORO ver2.jpg"
+            src ="https://files.hailnight.com/public/sponser/D%E2%80%99ORO%20ver2.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             
             </div>
