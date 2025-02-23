@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="flex items-center justify-between mb-8">
           {/* Blue Box (on the left) */}
           <img 
-          src = "\pic\IMG_0927.JPG"
+          src = "https://files.hailnight.com/pic/IMG_0927.JPG"
           className="w-[152px] h-[108px] " />
 
           {/* Header Text */}
@@ -104,7 +104,38 @@ export default function Footer() {
             <img
             src ="https://files.hailnight.com/public/sponser/D%E2%80%99ORO%20ver2.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\Seleco.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\rainflower Logo.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\บริษัท สยามยูนิทูลส์ จำกัด.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\Logo บริษัท PRO-toys.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\บริษัท คอนเน็คท์ แฮปปี้เนส จำกัด.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\Lactasoy Logo.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\บริษัท บี.เอส.แอนด์ เอฟ สแตนเลส จำกัด.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\เบทาโกร.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\บริษัท เบลนด์เทค จำกัด.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\บริษัท วีเค เดคคอร์เรชั่น.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             
+
             </div>
           </div>
           <div className="flex flex-col justify-center w-fit gap-4 text-right">

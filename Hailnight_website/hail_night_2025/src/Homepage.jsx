@@ -309,8 +309,10 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         src ="https://files.hailnight.com/public/sponser/CP%20consumer.png"
         className="relative h-[100px] w-[45%] sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="https://files.hailnight.com/public/sponser/Logo%20Major%20Cineplex%20.png
-"
+        src ="https://files.hailnight.com/public/sponser/Logo%20Major%20Cineplex%20.png"
+        className="relative h-[100px] w-auto sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\Seleco.webp"
         className="relative h-[100px] w-auto sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         
       </div> 
@@ -341,6 +343,21 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         <img 
         src ="https://files.hailnight.com/public/sponser/%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%AA%E0%B8%94%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.JPG"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="https://files.hailnight.com/public/sponser/D%E2%80%99ORO%20ver2.jpg"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\rainflower Logo.webp"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท สยามยูนิทูลส์ จำกัด.webp"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\Logo บริษัท PRO-toys.webp"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท คอนเน็คท์ แฮปปี้เนส จำกัด.webp"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
 </div> 
 
 <div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[50px] sm:px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
@@ -369,8 +386,22 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         src ="https://files.hailnight.com/public/sponser/%E0%B8%AA%E0%B8%B8%E0%B8%84%E0%B8%99%E0%B8%98%E0%B8%B2_retouched.JPG"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
         <img 
-        src ="https://files.hailnight.com/public/sponser/D%E2%80%99ORO%20ver2.jpg"
+        src ="\new sponser\Lactasoy Logo.webp"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท บี.เอส.แอนด์ เอฟ สแตนเลส จำกัด.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\เบทาโกร.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท เบลนด์เทค จำกัด.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท วีเค เดคคอร์เรชั่น.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        
+        
         
 </div> 
 
