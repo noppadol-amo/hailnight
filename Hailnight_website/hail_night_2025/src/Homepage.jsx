@@ -358,6 +358,12 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         <img 
         src ="\new sponser\บริษัท คอนเน็คท์ แฮปปี้เนส จำกัด.webp"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\ThaiGimmic.webp"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\Codec Logo.webp"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
 </div> 
 
 <div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[50px] sm:px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
@@ -400,9 +406,24 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         <img 
         src ="\new sponser\บริษัท วีเค เดคคอร์เรชั่น.webp"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
-        
-        
-        
+        <img 
+        src ="\new sponser\บริษัท ปังปอนด์ ขนมเปี๊ยะบางกรวย จำกัด.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\คลินิกเวชกรรมใกล้ฉัน.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท เจริญกิจจงเสถียร จำกัด.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท ปฐวิน จำกัด (มหาชน).webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\โก๋แก่.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\อบทะเล.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
 </div> 
 
 

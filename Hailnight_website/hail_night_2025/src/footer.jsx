@@ -134,8 +134,31 @@ export default function Footer() {
             <img
             src ="\new sponser\บริษัท วีเค เดคคอร์เรชั่น.webp"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\ThaiGimmic.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+          <img
+            src ="\new sponser\Codec Logo.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\บริษัท ปังปอนด์ ขนมเปี๊ยะบางกรวย จำกัด.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\คลินิกเวชกรรมใกล้ฉัน.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\บริษัท เจริญกิจจงเสถียร จำกัด.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\บริษัท ปฐวิน จำกัด (มหาชน).webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\โก๋แก่.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
+            <img
+            src ="\new sponser\อบทะเล.webp"
+            className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             
-
             </div>
           </div>
           <div className="flex flex-col justify-center w-fit gap-4 text-right">
