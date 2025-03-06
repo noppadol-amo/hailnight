@@ -364,6 +364,9 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         <img 
         src ="\new sponser\Codec Logo.webp"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท เคลฟเวอร์กู๊ดส์ จำกัด.webp"
+        className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
 </div> 
 
 <div className="flex flex-wrap items-center justify-center gap-4 pt-0 pb-[50px] sm:px-[50px] relative self-stretch w-full flex-[0_0_auto] z-[1]">
@@ -423,6 +426,9 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
         <img 
         src ="\new sponser\อบทะเล.webp"
+        className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\บริษัท ปีโป้ลาร์ฟิเชี่ยนส์ จำกัด.webp"
         className="relative h-[60px] w-[20%] sm:h-[90px] sm:w-auto bg-white rounded-[10px]" />
 </div> 
 
