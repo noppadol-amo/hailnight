@@ -332,7 +332,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         src ="https://files.hailnight.com/public/sponser/U72_โลโก้.jpg"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
-        src ="https://files.hailnight.com/public/sponser/%E0%B8%9F%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%A1%E0%B9%80%E0%B8%AE%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B9%8C.png"
+        src ="\public\new sponser\Farmhouse.webp"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
         <img 
         src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B8%9E.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%98%E0%B8%99.png"
