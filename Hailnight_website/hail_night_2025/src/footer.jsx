@@ -65,7 +65,7 @@ export default function Footer() {
             src ="https://files.hailnight.com/public/sponser/U72_โลโก้.jpg"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
-            src ="\public\new sponser\Farmhouse.webp"
+            src ="\new sponser\Farmhouse.webp"
             className="w-10 h-10 md:w-12 md:h-12 lg:w-14 lg:h-14 bg-white rounded-full"/>
             <img
             src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B8%9E.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%98%E0%B8%99.png"

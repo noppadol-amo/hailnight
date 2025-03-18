@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar"; // Import the Navbar component
 import Footer from "./footer";
+import { Link } from "react-router-dom";
 export default function SchedulePage() {
   return (
     <div className="bg-[#27344e] min-h-screen flex flex-col">
@@ -212,21 +213,37 @@ export default function SchedulePage() {
     className="absolute inset-0 w-full h-full object-cover  "
   />
 
-  {/* Text */}
+  
   
 </div>
-
-    
-  </div>
 </div>
 
-<img 
+
+
+
+</div>
+
+  {/* Event Program Button */}
+  <div className="flex items-center justify-center w-full">
+  <a href="/event-program" className="w-[70%]">
+    <div className="bg-[#f9d490] flex items-center justify-center gap-2.5 px-8 sm:px-[150px] py-6 rounded-[20px] mb-[40px] hover:scale-105 transition-transform duration-300 shadow-md">
+      <div className="w-fit font-csRoger font-bold text-[#4a381f] text-[20px] sm:text-[36px] text-center leading-[50px] whitespace-nowrap">
+        View Event Program
+      </div>
+    </div>
+  </a>
+</div>
+
+
+
+
+    <img 
 src = "https://files.hailnight.com/pic/Untitled_Artwork%201.png"
 className="relative w-full h-full " />
+</div>
 
 
 
-      </div>
       
       <Footer/>
     </div>

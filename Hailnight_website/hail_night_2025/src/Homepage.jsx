@@ -23,25 +23,25 @@ export default function HomePage() {
         <div className="flex flex-col items-center gap-2 w-full">
           <Link
             to="/"
-            className="w-full bg-[#efb246] hover:bg-[#d9a03f] text-[#4a381f] font-csRoger text-xl py-4 rounded text-center"
+            className="w-full bg-[#efb246] hover:bg-[#d9a03f] text-[#4a381f] font-csRoger text-2xl py-4 rounded text-center"
           >
             HOME
           </Link>
           <Link
             to="/ticket"
-            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl py-4 rounded text-center"
+            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl py-4 rounded text-center"
           >
             TICKET
           </Link>
           <Link
             to="/schedule"
-            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl py-4 rounded text-center"
+            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl py-4 rounded text-center"
           >
             SCHEDULE
           </Link>
           <Link
             to="/merchandise"
-            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl py-4 rounded text-center"
+            className="w-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl py-4 rounded text-center"
           >
             MERCHANDISE
           </Link>
@@ -50,13 +50,13 @@ export default function HomePage() {
         <div className="flex items-center justify-between h-[106px] w-full bg-[#f9d38f]">
           <Link
             to="/"
-            className="flex-1 h-full bg-[#efb246] hover:bg-[#d9a03f] text-[#4a381f] font-csRoger text-xl flex items-center justify-center rounded-r-[18px]"
+            className="flex-1 h-full bg-[#efb246] hover:bg-[#d9a03f] text-[#4a381f] font-csRoger text-2xl flex items-center justify-center rounded-r-[18px]"
           >
             HOME
           </Link>
           <Link
             to="/ticket"
-            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl flex items-center justify-center rounded-[18px]"
+            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl flex items-center justify-center rounded-[18px]"
           >
             TICKET
           </Link>
@@ -69,13 +69,13 @@ export default function HomePage() {
           
           <Link
             to="/schedule"
-            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl flex items-center justify-center rounded-[18px]"
+            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl flex items-center justify-center rounded-[18px]"
           >
             SCHEDULE
           </Link>
           <Link
             to="/merchandise"
-            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-xl flex items-center justify-center rounded-l-[18px]"
+            className="flex-1 h-full bg-[#f9d38f] hover:bg-[#F8CB7A] text-[#4a381f] font-csRoger text-2xl flex items-center justify-center rounded-l-[18px]"
           >
             MERCHANDISE
           </Link>
@@ -332,7 +332,7 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         src ="https://files.hailnight.com/public/sponser/U72_โลโก้.jpg"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-[#758fb6] rounded-[10px]" />
         <img 
-        src ="\public\new sponser\Farmhouse.webp"
+        src ="\new sponser\Farmhouse.webp"
         className="relative h-[80px] w-[30%] sm:h-[120px] sm:w-auto bg-white rounded-[10px]" />
         <img 
         src ="https://files.hailnight.com/public/sponser/%E0%B8%A3%E0%B8%9E.%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%98%E0%B8%99.png"
