@@ -24,6 +24,17 @@ export default function EventProgram() {
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold font-csRoger text-[#fccf7f] text-center leading-relaxed">
           Event Program
         </h1>
+        <a 
+      href="https://drive.google.com/file/d/1JWIqXUg7c4-VErWdCiOVEjVrItrYemoO/view?usp=sharing"  // Replace with your URL
+        target="_blank"  // Open link in a new tab
+        rel="noopener noreferrer"  // Security for opening in a new tab
+>   
+        <div className=" w-50% bg-[#f9d490] flex items-center justify-center gap-2.5 px-2 sm:px-[150px] py-4 relative rounded-[20px] mb-[40px]  hover:scale-110 transition-all duration-300">
+        <div className="relative w-fit font-csRoger font-bold text-[#4a381f] text-[18px] sm:text-[24px] text-center tracking-[0] leading-[50px]  whitespace-nowrap underline">
+          Download Event Program
+          </div>
+        </div>
+      </a>
 
         {/* PDF Viewer */}
         <div className="w-[95%] sm:w-[65%] shadow-lg p-8 bg-[#27344e] rounded-lg ">
@@ -39,6 +50,7 @@ export default function EventProgram() {
           </Worker>
         </div>
       </div>
+      
 
       <Footer />
     </div>
