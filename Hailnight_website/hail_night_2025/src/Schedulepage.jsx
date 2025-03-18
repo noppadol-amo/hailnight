@@ -225,7 +225,7 @@ export default function SchedulePage() {
 
   {/* Event Program Button */}
   <div className="flex items-center justify-center w-full">
-  <a href="/event-program" className="w-[70%]">
+  <a href="/event-program" className=" w-[90%] ">
     <div className="bg-[#f9d490] flex items-center justify-center gap-2.5 px-8 sm:px-[150px] py-6 rounded-[20px] mb-[40px] hover:scale-105 transition-transform duration-300 shadow-md">
       <div className="w-fit font-csRoger font-bold text-[#4a381f] text-[20px] sm:text-[36px] text-center leading-[50px] whitespace-nowrap">
         View Event Program
