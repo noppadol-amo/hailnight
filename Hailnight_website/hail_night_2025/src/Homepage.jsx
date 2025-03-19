@@ -314,6 +314,9 @@ Reconnect with the joy of exploration and let your imagination set sail on this 
         <img 
         src ="\new sponser\Seleco.webp"
         className="relative h-[100px] w-auto sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
+        <img 
+        src ="\new sponser\Ais.png"
+        className="relative h-[100px] w-auto sm:h-[160px] sm:w-auto bg-white rounded-[10px]" />
         
       </div> 
 
